@@ -1,0 +1,15 @@
+{
+	"testId":1,
+	"testInt":10,
+	"testFloat":1.2,
+	"testString":"abcdefg",
+	"testUUID":"c14c402f-0e66-4eb3-b345-b62a29f3ef08",
+	"testEmail":"test@example.com",
+	"testDate":"2014-10-09",
+	"testEnum":"A",
+	"testIntEnum":1,
+	"testFloatEnum":1.2,
+	"testIntArray":[1,2,3,4],
+	"testStringarray":["A","B","C","D"],
+	"testFloatArray":[1.2,2.2,3.2,4.2]
+}
